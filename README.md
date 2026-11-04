@@ -191,8 +191,8 @@ Users register their business details while selecting an exact geographic locati
 
 ### Clone Repository
 ```bash
-git clone https://github.com/VrajPrajapati6/MarketMapper-Techsprint.git
-cd MarketMapper-Techsprint
+git clone https://github.com/jalmitul12/Market_Mapper.git
+cd Market_Mapper
 npm install
 npm install dot env
 node index.js
